@@ -29,6 +29,6 @@ This Python-based project aims to provide users with an application that suggest
 You can access the project code [here](https://github.com/Vladexxs/Game-Forge-Mate/tree/main/SystemFinder). Also, don't forget to install the necessary dependencies to run the project.
 
 ## Members
-- Gürkan Karadaş
-- Mert Yılmazer
+- Gürkan Karadaş [@imacapella](https://github.com/imacapella)
+- Mert Yılmazer  [@Vladexxs](https://github.com/Vladexxs)
 - Murathan Karasu
